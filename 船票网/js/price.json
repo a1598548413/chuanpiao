@@ -1,0 +1,22 @@
+[
+	{
+		"priceType":"普通",
+		"price":325,
+		"priceDetails":"280+20+15"
+	},
+	{
+		"priceType":"学生",
+		"price":299,
+		"priceDetails":"265+20+15"
+	},
+	{
+		"priceType":"军人",
+		"price":275,
+		"priceDetails":"235+20+15"
+	},
+	{
+		"priceType":"儿童",
+		"price":98,
+		"priceDetails":"65+20+15"
+	}
+]
